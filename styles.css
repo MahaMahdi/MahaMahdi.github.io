@@ -1,0 +1,22 @@
+/*!
+ * Tailwind CSS v2.1.4
+ * https://tailwindcss.com
+ */
+
+/* Custom styling for individual sections can be added here if needed */
+
+/* For demonstration purposes, this CSS is minimal, using mostly Tailwind's utility classes in the HTML directly */
+
+/* Since we are using Tailwind CSS, you can include the CDN link in the HTML file for styles.
+   If you need to apply custom styles, you can include them here. */
+
+/* Example Custom Style */
+.h-full {
+    height: 100%;
+}
+.bg-gray-100 {
+    background-color: #f7fafc;
+}
+.rounded {
+    border-radius: 0.25rem;
+}
